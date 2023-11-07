@@ -49,7 +49,6 @@ INSTALLED_APPS = [
     'crispy_bootstrap4',
     'bootstrap5',
     'sweetify',
-    'EB CLI',
 
 ]
 
